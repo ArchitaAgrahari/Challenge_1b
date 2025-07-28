@@ -1,0 +1,500 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Edit text in a PDF ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Set the default font for adding and editing text ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1. From the hamburger menu ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2. In the dialog box, select Content Editing under Categories to display Font Options. ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3. Select an appropriate font in the drop-down lists: ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1. Fallback font for Editing. ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2. Default font for Add Text and Font Size. ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4. Select OK to save the changes and close the Preferences dialog box. ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Change, replace, or delete text ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text that you want to edit. The text-box turns blue upon selection, and a ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. Edit the text by doing one of the following: ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. Type new text to replace the selected text, or press Delete to remove it. ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. To rotate the text box, use the rotation handle at the top of the selected text ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. Manage list items using the list controls (bulleted and numbered) in the left ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. Select a font, font size, or other formatting options in the left Format panel. You ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. Select any area outside the selection to deselect it, and start over. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Format text ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text that you want to change. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Format Text section on the left panel, select a font, font size, bold, or other ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. Select outside the selection to deselect it and start over. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Add new text ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag to define the width of the text block that you want to add. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "3. The Add text tool intelligently detects the following text properties of text close to the ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "4. Type the text. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "5. To resize the text box, drag a selection handle. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "6. To move the text box, place the pointer over the line of the bounding box (avoid the ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Move, rotate, or resize a text box ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text box that you want to move, rotate, or resize. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. Do any of the following: ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1. Move : Place the pointer over the line of the bounding box (avoid the selection ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2. Rotate : Click and hold the Rotation pointer ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3. Resize : Place the pointer over any of the circular selection handles, and drag ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Add or edit lists ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. To add or remove items from a numbered or bulleted list: ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Place the cursor in the document at the location where you want to add a list. ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. Choose the appropriate list type under Format Text . ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Select all items in the list. The appropriate list type is highlighted under Format Text . ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. Click the highlighted list type. ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Place the cursor in the list item or select all items. ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Change font color ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text that you want to change. ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Format Text section on the Edit panel, select Font color next to Font size. ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "4. For Windows : You see a color panel for Windows to choose the color you want. Select ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Change font ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text that you want to change. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Format Text section on the Edit panel, from the Font drop-down menu, select ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Change font size ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Format Text section on the Edit panel, from the Font size menu, select the font ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Redo text in Acrobat ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in which you want to redo the text. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2. (Windows) Select the hamburger menu in the upper left. Then select Undo, Redo & ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Undo text in Acrobat ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Change paragraph spacing ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Edit from the global bar in the upper left. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the text for which you want to modify the paragraph spacing. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "3. From the FORMAT TEXT panel, select Paragraph spacing after drop-down menu and ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Edit images or objects in a PDF ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "About editing text and images ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Add images in a PDF ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. Select Edit a PDF from the All tools menu and then ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "2. From the drop-down menu, select Choose image to select an image from your device ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "3. In the dialog, select the image file you want to insert. ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "4. Select where you want to insert the image or select drag to resize it as you insert. ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "5. Once the image is added, you can take any of the following actions: ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Modify images in a PDF ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Delete images from a PDF ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF document in Adobe Acrobat. Select Edit from the global bar. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the image you want to delete, and a contextual menu opens. Select ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Add Objects to PDF ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. Open a PDF, and then from the All tools menu, select Edit a PDF . ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2. To add a button: ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. From the left menu, select Button . ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2. Once the button coordinates appear, move the mouse to a desired location ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "3. In the dialog that appears, provide a name to the button. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "4. To change the properties of the button, double-click the button and then select ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "3. To add a video: ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. From the left menu, select Video . ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag your cursor on the document where you want to add the video. ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Insert Video dialog that appears, browse and select the video file that you ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "4. Select OK . ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "4. To add sound to the PDF: ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "1. From the left menu, select Sound . ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag the cursor over the text or image that you want to add sound to. ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Insert Sound dialog that appears, browse and select the audio file that ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "4. Select OK. ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "5. To add 3D Media to the video: ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "1. From the left menu, select 3D Media . ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "2. Once the button coordinates appear, move the mouse to a desired location ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "3. In the dialog that appears, browse and select the file. ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Edit an image outside Acrobat ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat, choose Edit , and then select the image or object. ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Adjust Objects in the Edit panel, select Edit using , and then choose an editor. ",
+      "page": 15
+    }
+  ]
+}

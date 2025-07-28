@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T17:43:15.591984"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "only) ",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "2. Select Forms on the left. ",
+      "importance_rank": 2,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "2. In the Preferences dialog, select Forms as the preference category. ",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Auto-Complete forms (interactive forms ",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "3. When finished, submit the form to either send the data to a server or create an email ",
+      "importance_rank": 5,
+      "page_number": 8
+    }
+  ],
+  "subsection_analysis": []
+}

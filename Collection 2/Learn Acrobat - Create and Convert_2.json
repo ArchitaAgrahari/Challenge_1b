@@ -1,0 +1,345 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Click Convert To Adobe PDF , specify a location and filename, and click Save . ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Select Visio layers to convert (Acrobat Pro) ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. Select one or more layers in the Layers In Visio Drawing list. ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "3. To add the selected Visio layers to the list of layers to convert to the PDF file, do one ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "4. Optionally, do any of the following: ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "5. Click Convert To PDF , specify a folder in the Save In box in which to save the PDF file, ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Convert AutoCAD files to PDF (Acrobat Pro for ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Windows) ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Convert AutoCAD files when AutoCAD is installed ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2. Do one of the following: ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3. In the Choose Layouts dialog box, add or remove layouts as needed. To reorder the ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4. To determine how the AutoCAD layers are converted, select one of the following, and ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "5. Specify a filename and location in the Save As dialog box, and click Save . ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Select AutoCAD layers to convert ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. In AutoCAD, start to convert an AutoCAD file and select the Retain All Or Some ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. To select the AutoCAD layers to convert, do any of the following: ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. To add the selected AutoCAD layers to the Layers In PDF list, do one of the following: ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "5. Optionally, do any of the following in the Layers In PDF list: ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "6. Click Convert , specify a filename and location, and then click Save . ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Convert AutoCAD files in batches ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. Specify your preferences for layers, page size, plot style, and output PDFs. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. In the DWG List, do any of the following: ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. Click Convert . ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Application-specific PDFMaker settings ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Settings tab options available from within most applications ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Excel-specific options on the Settings tab ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "PowerPoint-specific options on the Settings tab ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Email-specific options on the Settings tab ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "AutoCAD-specific options on the Settings tab (Acrobat Pro) ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Visio-specific options on the Settings tab (Acrobat Pro) ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Word tab settings (Microsoft Word) ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Bookmarks tab settings (Microsoft Word) ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Create PDFs by printing to file ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Create a PDF using the Print command (Windows) ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the file in its authoring application, and choose File > Print. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "2. Choose Adobe PDF from the printers menu. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "4. In the Print dialog box, click OK. ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Create a PDF using the Print command (Mac OS X) ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "2. Choose Save As Adobe PDF from the PDF menu at the bottom of the dialog box. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "3. For Adobe PDF Settings, choose one of the default settings, or customize the settings ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "4. For After PDF Creation, specify whether to open the PDF. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "5. Click Continue. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "6. Select a name and location for your PDF, and click Save. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Adobe PDF printing preferences (Windows) ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Set Adobe PDF printer properties (Windows) ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Set Adobe PDF printer properties ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "1. Open Devices and Printers from the Start menu, and right-click the Adobe ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "2. Choose Properties. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "3. Click the tabs, and select options as needed. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Reassign the port that the Adobe PDF printer uses ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "1. Quit Distiller if it is running, and allow all queued jobs to the Adobe PDF printer to ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "2. Open Devices and Printers from the Start menu. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "3. Right-click the Adobe PDF printer, and choose Printer Properties . ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "4. Click the Ports tab, and then click Add Port. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "5. Select Adobe PDF Port (Windows XP) or Adobe PDF Port Monitor (Vista/Windows 7) ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "6. Select a local folder for PDF output files, and click OK. Then click Close to quit the ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "7. In the Adobe PDF Properties dialog box, click Apply, and then click OK. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Delete a folder and reassign the Adobe PDF printer to the default port ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "1. Quit Distiller if it is running, and allow a few minutes for all queued jobs to Adobe ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "2. Open Devices and Printers from the Start menu. ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "3. Right-click the Adobe PDF printer, and choose Printer Properties . ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "4. Click the Ports tab. ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "5. Select the default port, Documents, and click Apply. ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "6. Select the port to delete, click Delete Port, and then click OK to confirm the deletion. ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "7. Select the Documents port again and click Close. ",
+      "page": 17
+    }
+  ]
+}

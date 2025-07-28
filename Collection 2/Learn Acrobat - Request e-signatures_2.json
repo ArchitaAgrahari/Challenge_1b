@@ -1,0 +1,210 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Adobe LiveCycle Rights Management ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "(ALCRM) servers ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "What is a digital signature? ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Why validate a digital signature? ",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Set preferences for validating digital signatures ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1. Select the hamburger menu (Windows®), or go to Acrobat (macOS)> Preferences . ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. In the Preferences dialog box, from under categories, select Signatures . ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Verification box in the Digital Signatures panel, select More... ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "4. In the 'Signature Verification Preferences' dialog that opens, you can control the ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Set the trust level of a certificate ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. Navigate to the hamburger menu (Windows) or the Acrobat menu (macOS) ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. For identities & Trusted Certificates , select More... ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. From the left panel, select Trusted Certificates . ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. Select a certificate from the list and then select Edit Trust . ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Edit Certificate Trust dialog that opens, select any of the following items to ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "6. Select OK . ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Sign in preview mode for document integrity ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Certify a PDF ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Timestamp a document ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Validate a digital signature ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Validate all digital signatures ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF for which you want to validate all digital signatures. ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar in the upper-left, select All tools . ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3. From the All tools pane, select Use a certificate > Validate all signature. ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "4. Select OK in the confirmation dialog box. Once all the signatures are validated. You ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Trust a signer’s certificate ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Sign component PDFs and PDF Portfolios ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Digitally sign on attachments to component PDFs ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in a separate window. ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. Right-click the attachment and select Open file . ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "View signed and certified PDF Portfolios ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "XML data signatures ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Establish long-term signature validation ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information at signing ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1. Ensure that your computer can connect to the appropriate network resources. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2. Go to Preferences > Signatures > Creation & Appearances : More and make sure that ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "3. Sign the PDF. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information after signing ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1. Ensure that your computer can connect to the appropriate network resources, and ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Add Verification Information . ",
+      "page": 10
+    }
+  ]
+}

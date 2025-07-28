@@ -1,0 +1,620 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Save a PDF ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1. Do one of the following: ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1. On Windows, choose the hamburger Menu > Undo, Redo & more > Revert . ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "About the Autosave feature ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Set up automatic saving ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1. In the Preferences dialog box under Categories, select Documents. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Automatically Save Document Changes To Temporary File Every xx Minutes (1- ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Recover lost changes after an unexpected shutdown ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1. Start Acrobat or open the file you were working on last. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. When prompted, click Yes to open the autosave file or files. If multiple files were open, ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. Save the file or files with the same names as the files you were originally working on. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to DOCX ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. From the left pane, Select DOCX from the drop-down menu next to Microsoft Word . ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to DOC ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "3. From the left pane, Select DOC from the drop-down menu next to Microsoft Word . ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to PPTX ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Convert from the globar bar. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Convert menu in the left pane, select Microsoft PowerPoint PPTX. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to PPTX . ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "5. In the dialog, select the location where you want to save the file and, if necessary, ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "6. Select Save . ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "File format op Ɵons for PDF export in Acrobat ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Adobe PDF options ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "File settings ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Color management ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "File settings ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Color management ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "File settings ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Color management ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to RTF ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "3. Under EXPORT PDF TO , select the drop-down menu next to Other format . Then ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to RTF . ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to HTML Web Page ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "3. Select the drop-down menu next to Other format , Select HTML . ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to HTML. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Single html page ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Multiple html pages ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Content se ƫngs ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Text recogni Ɵon seƫngs ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to Microso Ō Excel ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to Microsoft Excel (XLSX) ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Microsoft Excel drop-down menu, select XLSX . ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to XLSX . ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to XML ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Microsoft Excel drop-down menu, select XML . ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to XML . ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Text recogni Ɵon se ƫngs ",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to PostScript or Encapsulated ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "PostScript (EPS) ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "2. From the global bar, select Convert. ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "3. Select the drop-down menu next to Other format , as required, select EPS or PS . ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to EPS or Convert to PS . The options will be displayed based on your ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Save as dialog, select a location where you want to save the file and then ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to Text and XML 1.0 ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to XML 1.0 ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to text ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Output file settings ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "3.2). ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Image file settings ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to JPEG or JPEG 2000 ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Convert from the global bar. ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Convert menu in the left pane, select Image format , and then from the ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to JPEG or Convert to JPEG 2000 . Different options are shown based ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "5. In the dialog, select the location where you want to save the file and, if necessary, ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "6. Select Save . ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to TIFF ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Convert menu in the left pane, select Image format , and then from the drop- ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "4. elect Convert to TIFF. ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "5. In the dialog, select the location where you want to save the file and, if necessary, ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "6. Select Save . ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Convert PDF to PNG ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat. ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Convert from the global bar. ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Convert to PNG. ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in Acrobat and select Convert from the top tools bar. Alternatively, ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "2. From the Convert panel, select image format and then from the drop-down, select the ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "4. (Optional) To configure the image settings: ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "1. Select Export all Images and then select Settings ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "2. In the dialog that appears, specify the File Settings , Color ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "3. For Exclude images smaller than , select the smallest size of the image to be ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Ok . ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "5. Select Convert to JPEG . ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "6. In the Save as dialog that appears, select a desired location or select Choose a ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "7. Select Save . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "1. Use the Select tool and mark the content to save. ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "2. Right-click the selected text and choose Export Selection As . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "3. Select a format from the Save As Type list and select Save . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Select and copy text and images ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "1. Select the Select tool ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag the pointer and draw a rectangle to select a part of the page. ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "1. Using the Select tool ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag a rectangle over the column of text. To select text across multiple columns, drag ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "1. Select View from the upper left (macOS) or select the hamburger menu on the upper ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "2. Select four times repeatedly in the text area. This method selects all the text on the ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "1. Use the Select tool ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "2. Right-click on the selected text, and then select Copy. ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF in which you want to paste the selected text or image. ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "2. Select the area where you want to paste the text or image. ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "3. (Windows) Press Ctrl + V . ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Convert selected content to other formats ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "1. Select the Select tool ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "2. Drag a rectangle over the content to copy. If you’re selecting text in columns, ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "3. Right-click the selection, select Export Selection As, and specify a filename. ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "4. Depending on the nature of the content, in the Save As Type, select one of the ",
+      "page": 29
+    }
+  ]
+}

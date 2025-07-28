@@ -1,0 +1,490 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Send a document to get signatures from ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "others ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the PDF form in Acrobat or Acrobat Reader, and then choose All ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. The Request Signatures window is displayed. It displays the fields progressively as you ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. The Mail and Message fields are just like the ones you use for sending an email and ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "4. (Optional) Click More Options , if you want to specify advanced options, such as signer ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "5. The Specify Where to Fill & Sign window is displayed showing options based on ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "6. When you've placed all desired fields in the document, click Send . The document is ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Signer's experience ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Steps to send in bulk ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Select the Send in Bulk tool as explained earlier. The Send in bulk file upload page ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "3. Add participants : ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "1. List the participants required. ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "2. Enter recipient email addresses followed by commas, or copy and paste a list of ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "3. Configure participant authentication by clicking the key icon to the right of the ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "4. . (Optional) Add yourself and/or CC'd parties ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "5. (Optional) Add additional files if needed. ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "6. Add Agreement Details: ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "7. Edit the Agreement settings (Optional): ",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "8. Click Next in the upper right corner of the window. ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "9. Prepare the Agreement and Add Fields: ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "1. Simple Authoring is loaded by default in most instances. Simple authoring: ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "10. Select Next (in the top-right corner) after all the fields have been placed. ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "11. Review and Send ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "12. Confirmation ",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Manage your bulk sends ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "1. Navigate to the Documents tab. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "2. Select Bulk Sends in the list of Your documents on the left side of the window. ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "3. Single-click the Bulk Send you to want to access, opening the context menu on the ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Why use certificate signatures? ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "What can I do with certificate IDs? ",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "What if my organization isn’t prepared to set up certificate- ",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "based signatures? ",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "Resources ",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "Steps to add a certificate-based signature to a PDF ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "1. Open a PDF in Acrobat and choose All Tools > more > Use a certificate in the ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "2. The Use a certificate tool is open on the left pane. ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "3. Select OK in the Save as Certified Document dialog box. ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "4. If you've selected, Certify (visible signatures) in step 2, use the mouse to drag and draw ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "5. In the Sign with a Digital ID dialog box, choose the Digital ID you want to use for ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "6. Select Review to review the document content before signing, then select Sign. Save ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Certifying and signing documents ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Setting up certificate-based signatures ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Set signing preferences ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Customizing signature workflows using seed values ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "Create the appearance of a certificate-based signature ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "1. (Optional) If you want to include an image of your handwritten signature in the ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "2. Right-click the signature field, and select Sign Document or Certify with Visible ",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "3. From the Appearance menu in the Sign dialog box, select Create New Appearance . ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "4. In the Configure Signature Appearance dialog box, type a name for the signature ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "5. For Configure Graphic, choose an option: ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "6. For Configure Text, select the options that you want to appear in the signature. ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "7. For Text Properties, specify the writing direction and type of digits used, and then ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "8. (Optional) If the dialog box includes the Additional Signature Information section, ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Set up a roaming ID account ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Categories , select Signatures . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "3. For Identities & Trusted Certificates , select More . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "4. Expand Digital IDs on the left, select Roaming ID Accounts , and select Add ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "5. Type the name and URL for the roaming ID server, and select Next . ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "6. Type your user name and password, or follow the directions to create an account. ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "PKCS#12 modules and tokens ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Store certificates on directory servers ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Import directory server settings (Windows only) ",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Categories , select Signatures . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "3. For Document Timestamping , select More . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Directory Servers on the left, and then select Import . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "5. Select the import/export methodology file and select Open . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "6. Select the Signature Properties button to check the current signature status if the file ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "7. Select Import Search Directory Settings . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "8. Select OK , if prompted to confirm your choice. ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Export directory server settings (Windows only) ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Categories , select Identity . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "3. Enter your name, organization, and email address to create your profile. ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "4. Under Categories , select Signatures . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "5. For Document Timestamping , select More . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "6. Select Directory Servers on the left, and then select one or more servers on the ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "7. Select Export , select a destination, and then select Next . ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "8. To prove that the file came from you, select Sign , add your signature, and then ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "9. Do one of the following: ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Add a timestamp to certificate-based signatures ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Configure a timestamp server ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Categories , select Signatures . ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "3. For Document Timestamping , click More . ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Time Stamp Servers on the left. ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "5. Do one of the following: ",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Set a timestamp server as the default ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "1. Open the Preferences dialog box. ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "2. Under Categories , select Signatures . ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "3. For Document Timestamping , click More . ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "4. Select Time Stamp Servers on the left. ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "5. Select the timestamp server, and click the Set Default button ",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "6. Select OK to confirm your selection. ",
+      "page": 29
+    }
+  ]
+}
