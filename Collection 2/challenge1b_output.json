@@ -19,39 +19,199 @@
     ],
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T17:43:15.591984"
+    "processing_timestamp": "2025-07-26T18:53:49.106714"
   },
   "extracted_sections": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "only) ",
+      "section_title": "Types of PDF forms",
       "importance_rank": 1,
-      "page_number": 9
+      "page_number": 2
     },
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "2. Select Forms on the left. ",
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
       "importance_rank": 2,
-      "page_number": 9
+      "page_number": 12
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "2. In the Preferences dialog, select Forms as the preference category. ",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Simple Authoring  is loaded by default in most instances. Simple authoring",
       "importance_rank": 3,
-      "page_number": 9
+      "page_number": 14
     },
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Auto-Complete forms (interactive forms ",
+      "section_title": "Is the form fillable?",
       "importance_rank": 4,
-      "page_number": 9
+      "page_number": 8
     },
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "3. When finished, submit the form to either send the data to a server or create an email ",
+      "section_title": "Clear unsaved form entries",
       "importance_rank": 5,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Request signatures – Add Cc, subject, message, More Options",
+      "importance_rank": 6,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add comments in a text box or callout",
+      "importance_rank": 7,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add or edit lists",
+      "importance_rank": 8,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create PDFs by printing to file",
+      "importance_rank": 9,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Before You Begin",
+      "importance_rank": 10,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Save a PDF",
+      "importance_rank": 11,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Using Select Text Tool",
+      "importance_rank": 12,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a blank PDF",
+      "importance_rank": 13,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Multiple document support in AI Assistant",
+      "importance_rank": 14,
       "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Validate all digital signatures",
+      "importance_rank": 15,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Extract pages from a PDF",
+      "importance_rank": 16,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Export objects to separate PDF",
+      "importance_rank": 17,
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills",
+      "importance_rank": 18,
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist",
+      "importance_rank": 19,
+      "page_number": 1
     }
   ],
-  "subsection_analysis": []
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "•   Interactive forms : These contain fields that you can select and fill in. •   Flat forms : These do  not have interactive fields. You can complete the forms by entering information and adding your signatures. Acrobat  also allows you to send your completed forms to others and securely save them in Adobe  cloud storage. Fill and sign PDF forms  To complete and sign PDF forms, open the form in Acrobat and then select  E-Sign  from the  global bar.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "You can change a flat form to a fillable form by either using the  Prepare Form  tool or  enabling the  Fill & Sign  tools. Interactive form   To create an interactive form, use the  Prepare Forms  tool. See  Create a form from an existing  document .",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•   Is limited to the most common types of fields:  •   Text input (All Text fields are flagged as Required)  •   Signature  •   Signer's name (Printed)  •   Signer's email  •   Signature date (Read-Only; Supplied by the system)  •   Checkbox  •   Places fields anywhere you click on the document. Advanced authoring:  •   Allows access to  all field types  (highlighted in yellow)  •   Supports  form field detection  (highlighted in green)  •   Supports  Prefill  fields  (highlighted in pink)  •   Supports  field assignment  (highlighted in purple and pink)  •   Supports  field validation",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Not all forms are fillable. These non-interactive forms are called  flat  forms.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Choose  Tools  >  Prepare a form . You can also add text, such as your name, company, title, or date. Create your signature and initials if not already done. The form fields are detected automatically. Below is an example  of the Signature panel.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•   If you don't want to use the  More Options , skip the next optional step. (Optional) Click  More Options , if you want to specify advanced options, such as signer  authentication, reminders, and more. (Optional) Click  Add Me,  if you want to be included as a signer of the  document. •   Specify authentication type like  Email ,  Password ,  Social Identity ,  Knowledge- Based Authentication ,  Phone,  or  Acrobat Sign . •   Password Protect  the PDF file.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "You can use the  Add text comment  tool to create a box that contains text. Text boxes allow for  horizontal text only. You can use the  Text callout  tool to create a callout text box. The text box moves  around a stationary anchor point—the arrow on the end-point line—created when you first  click in the PDF. To make further changes to the text box:",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a  list item, and conversely. For example,  press  Enter  at the end of a list item to insert a new row. To create a numbered or bulleted list:  1. The appropriate list type is highlighted under  Format Text . Choose the appropriate list type under  Format Text .",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "If you’re working with  nonstandard page sizes, create a custom page size. For example, you cannot create bookmarks and  hyperlinks using the  Adobe PDF  printer. If you’re creating a PDF from a  Microsoft  Office  document and you want to use these features, use PDFMaker. Create a PDF using the Print command (Windows)  1. Create a PDF using the Print command (Mac OS X)  The method for creating PDFs using the Print command changed in  Mac OS  v10.6  Snow  Leopard  with Acrobat 9.1 and later.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Before you begin, ensure that you adhere to the file and usage-related restrictions and login  requirements. •   The file can have up to 600 pages. •   The PDF shouldn’t be password protected or have any  usage restrictions. The selected  text must be on a single page and cannot span multiple  pages. •   Generative AI features are enabled.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Use this method to save PDFs, including  PDF Portfolios , and PDFs in which you have added  comments, form field entries, and digital signatures. Note:    Saving a digitally signed PDF invalidates the signature. Do one of the following:  •   To save changes, select  Save to computer    from the upper right. For macOS, select  File  >  Save as   Text . •   To save a copy of a PDF Portfolio, select  File  > Save .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "1. Open a PDF. Use the Select text tool to select the text you want to mark up. Open a PDF. To add other markups, expand the Highlight tool menu and select the tool for other  markups.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. For longer, more complex, or heavily  formatted documents, it’s better to create the source document in an application that offers  more layout and formatting options, such as Adobe InDesign or  Microsoft Word . The Create a PDF tool opens.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "GenAl Assistant allows users to process up to 10 documents simultaneously, including non- PDF formats (.doc, .docx, .rtf, .txt, .ppt, .pptx), each up to 600 pages and 100MB. Users can  switch between documents, with responses consolidated from various sources and proper  attributions. Persistent history support is also included to provide continuous access to  previous interactions.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "View previous versions of a digitally signed document  Whenever a certificate is used to sign a document, a signed version of the PDF is created and  saved along with the original PDF. Trust a signer’s certificate  To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity  Manager. End users can exchange certificates or add  them directly from signed documents and set their trust levels. However, enterprises may  require employees to validate signatures without any manual intervention. Acrobat trusts all",
+      "page_number": 8
+    }
+  ]
 }
